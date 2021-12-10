@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2018-10-23T22:30:53Z</time>
+ </metadata>
+ <trk>
+  <name>huh?</name>
+  <type>1</type>
+  <trkseg>
+   <trkpt lat="37.8816490" lon="-122.2226020">
+    <ele>515.1</ele>
+    <time>2018-10-23T22:30:53Z</time>
+   </trkpt>
+   <trkpt lat="37.8846870" lon="-122.2221920">
+    <ele>551.2</ele>
+    <time>2018-10-23T22:57:14Z</time>
+   </trkpt>
+   <trkpt lat="37.8847100" lon="-122.2221700">
+    <ele>551.3</ele>
+    <time>2018-10-23T22:57:15Z</time>
+   </trkpt>
+   <trkpt lat="37.8846740" lon="-122.2221630">
+    <ele>551.3</ele>
+    <time>2018-10-23T22:57:20Z</time>
+   </trkpt>
+   <trkpt lat="37.8815920" lon="-122.2224840">
+    <ele>509.9</ele>
+    <time>2018-10-23T23:14:51Z</time>
+   </trkpt>
+   <trkpt lat="37.8815550" lon="-122.2225130">
+    <ele>509.5</ele>
+    <time>2018-10-23T23:14:55Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
