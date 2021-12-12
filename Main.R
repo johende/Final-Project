@@ -8,6 +8,7 @@
 #install.packages("broom")
 #install.packages("devtools")
 #devtools::install_github("marcusvolz/strava")
+install.packages("sf")
 
 library(tidyverse)
 library(rgdal)
@@ -15,6 +16,9 @@ library(osmdata)
 library(broom)
 library(devtools)
 library(strava)
+library(sf)
+
+features <- available_features()
 
 # Startup Function --------------------------------------------------------
 
