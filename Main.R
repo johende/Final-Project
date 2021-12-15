@@ -2,25 +2,35 @@
 
 # Initialization --------------------------------------------------------------
 
-#install.packages("rgdal")
+# Installing packages
+
 #install.packages("tidyverse")
 #install.packages("osmdata")
-#install.packages("broom")
 #install.packages("devtools")
 #devtools::install_github("marcusvolz/strava")
-install.packages("sf")
+#install.packages("sf")
+
+# Packages used in the first attempt but no longer required
+
+#install.packages("broom")
+#install.packages("rgdal")
+
+
+# Loading Librarys
 
 library(tidyverse)
-library(rgdal)
 library(osmdata)
-library(broom)
 library(devtools)
 library(strava)
 library(sf)
 
-features <- available_features()
+# Packages used in the first attempt but no longer required
 
-# Startup Function --------------------------------------------------------
+#library(rgdal)
+#library(broom)
+
+
+# Startup Function - only to be used once when starting project ----------------
 
 startup <- function() {
 
