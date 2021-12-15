@@ -1,0 +1,1 @@
+Run the initialization in Main.R first, followed by DataClean.R, found in the scripts folder, followed by DataVis.R, also found in the scripts folder. Produced figures can be found in the figure folder. 
